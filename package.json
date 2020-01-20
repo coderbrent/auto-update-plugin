@@ -1,0 +1,13 @@
+{
+  "name": "auto-plugin",
+  "version": "1.0.0",
+  "description": "automatically add new gatsby plugins to config file upon installation",
+  "main": "index.js",
+  "author": "@brenta1283",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "diff": "^4.0.2",
+    "log-timestamp": "^0.3.0"
+  }
+}
